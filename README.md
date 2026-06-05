@@ -33,5 +33,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Krishna-0510/DSA-Practice/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
