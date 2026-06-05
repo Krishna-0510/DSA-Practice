@@ -6,6 +6,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Krishna-0510/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Krishna-0510/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Prefix Sum
 |  |
 | ------- |
