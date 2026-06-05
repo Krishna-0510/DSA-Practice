@@ -22,6 +22,7 @@
 | [0027-remove-element](https://github.com/Krishna-0510/DSA-Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Krishna-0510/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Krishna-0510/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Krishna-0510/DSA-Practice/tree/master/0134-gas-station) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
