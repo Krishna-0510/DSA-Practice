@@ -56,11 +56,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
