@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Krishna-0510/DSA-Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Krishna-0510/DSA-Practice/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/Krishna-0510/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Krishna-0510/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Krishna-0510/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
