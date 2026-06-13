@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 ## Recursion
@@ -72,6 +73,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Krishna-0510/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Krishna-0510/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -95,6 +97,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -106,4 +109,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krishna-0510/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
