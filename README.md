@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Krishna-0510/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Krishna-0510/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Krishna-0510/DSA-Practice/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Krishna-0510/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
@@ -82,6 +84,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Krishna-0510/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
