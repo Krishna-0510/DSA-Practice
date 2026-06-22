@@ -56,6 +56,7 @@
 | [0242-valid-anagram](https://github.com/Krishna-0510/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Krishna-0510/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## Backtracking
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Krishna-0510/DSA-Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
