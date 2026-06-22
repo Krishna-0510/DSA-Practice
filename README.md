@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Krishna-0510/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Krishna-0510/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
