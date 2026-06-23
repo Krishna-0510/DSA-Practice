@@ -24,6 +24,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krishna-0510/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/Krishna-0510/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-0510/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krishna-0510/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Krishna-0510/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-0510/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
