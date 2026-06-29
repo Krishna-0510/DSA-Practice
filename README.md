@@ -23,6 +23,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Krishna-0510/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1732-find-the-highest-altitude](https://github.com/Krishna-0510/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0242-valid-anagram](https://github.com/Krishna-0510/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
 | ------- |
