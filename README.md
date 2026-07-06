@@ -114,6 +114,7 @@
 | [0344-reverse-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1592-rearrange-spaces-between-words](https://github.com/Krishna-0510/DSA-Practice/tree/master/1592-rearrange-spaces-between-words) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
