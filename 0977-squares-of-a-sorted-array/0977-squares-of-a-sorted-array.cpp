@@ -53,6 +53,7 @@ public:
                 j++;
             }
         } // while loop khatam
+        
         while(i<n)
         {
             res[id]=neg[i];
