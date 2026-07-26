@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/Krishna-0510/DSA-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Krishna-0510/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Krishna-0510/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1732-find-the-highest-altitude](https://github.com/Krishna-0510/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -54,6 +55,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Krishna-0510/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/Krishna-0510/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
