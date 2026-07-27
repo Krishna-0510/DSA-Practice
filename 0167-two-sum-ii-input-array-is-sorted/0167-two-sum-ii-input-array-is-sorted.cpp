@@ -1,23 +1,28 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-        int i = 0;
+        int i = 0 ;
         int j = numbers.size() - 1;
-        while( i < j )
+        int left = i;
+        int right = numbers.size() - 1;
+        while(left < right)
         {
-            if(numbers[i] + numbers[j] == target)
+          
+            int sum = numbers[left] + numbers[right];
+            if(sum == target)
             {
-                return {i+1,j+1};
+                return{left + 1,right+1};
             }
-            else if(numbers[i] + numbers[j] < target)
+            else if( sum > target)
             {
-                i++;
+                right--;
             }
             else
             {
-                j--;
+                left++;
             }
         }
+        
         return {};
     }
 };
