@@ -18,6 +18,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-0510/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Krishna-0510/DSA-Practice/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Krishna-0510/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Krishna-0510/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
@@ -37,6 +38,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Krishna-0510/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Krishna-0510/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-0510/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -156,6 +158,7 @@
 | [0035-search-insert-position](https://github.com/Krishna-0510/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-0510/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Krishna-0510/DSA-Practice/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-0510/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -242,4 +245,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0912-sort-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
