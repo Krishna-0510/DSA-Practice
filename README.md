@@ -111,6 +111,7 @@
 | [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -122,6 +123,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/Krishna-0510/DSA-Practice/tree/master/0134-gas-station) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
@@ -137,11 +139,13 @@
 | [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1592-rearrange-spaces-between-words](https://github.com/Krishna-0510/DSA-Practice/tree/master/1592-rearrange-spaces-between-words) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3692-majority-frequency-characters](https://github.com/Krishna-0510/DSA-Practice/tree/master/3692-majority-frequency-characters) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Queue
 |  |
 | ------- |
@@ -252,4 +256,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
