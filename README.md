@@ -111,6 +111,7 @@
 | [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Krishna-0510/DSA-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
@@ -168,6 +169,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Krishna-0510/DSA-Practice/tree/master/0704-binary-search) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Krishna-0510/DSA-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-0510/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
