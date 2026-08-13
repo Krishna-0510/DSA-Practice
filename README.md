@@ -34,6 +34,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Krishna-0510/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Krishna-0510/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-0510/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -147,6 +148,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1592-rearrange-spaces-between-words](https://github.com/Krishna-0510/DSA-Practice/tree/master/1592-rearrange-spaces-between-words) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Krishna-0510/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3692-majority-frequency-characters](https://github.com/Krishna-0510/DSA-Practice/tree/master/3692-majority-frequency-characters) |
 ## Backtracking
@@ -309,4 +311,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Krishna-0510/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Krishna-0510/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
