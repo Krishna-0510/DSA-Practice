@@ -34,6 +34,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Krishna-0510/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Krishna-0510/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-0510/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -120,6 +121,7 @@
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Krishna-0510/DSA-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
@@ -132,6 +134,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/Krishna-0510/DSA-Practice/tree/master/0134-gas-station) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -167,6 +170,7 @@
 | [0169-majority-element](https://github.com/Krishna-0510/DSA-Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3692-majority-frequency-characters](https://github.com/Krishna-0510/DSA-Practice/tree/master/3692-majority-frequency-characters) |
 ## Binary Search
@@ -297,14 +301,17 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -313,6 +320,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Segment Tree
 |  |
 | ------- |
