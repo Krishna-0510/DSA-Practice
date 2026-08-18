@@ -39,6 +39,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-0510/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Krishna-0510/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Krishna-0510/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Krishna-0510/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -99,6 +100,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Krishna-0510/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3692-majority-frequency-characters](https://github.com/Krishna-0510/DSA-Practice/tree/master/3692-majority-frequency-characters) |
 | [3731-find-missing-elements](https://github.com/Krishna-0510/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Linked List
