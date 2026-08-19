@@ -31,6 +31,7 @@
 | [0912-sort-an-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna-0510/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Krishna-0510/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1386-cinema-seat-allocation](https://github.com/Krishna-0510/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1732-find-the-highest-altitude](https://github.com/Krishna-0510/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -98,6 +99,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-0510/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1386-cinema-seat-allocation](https://github.com/Krishna-0510/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Krishna-0510/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Krishna-0510/DSA-Practice/tree/master/0134-gas-station) |
+| [1386-cinema-seat-allocation](https://github.com/Krishna-0510/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -193,6 +196,7 @@
 | [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/Krishna-0510/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Krishna-0510/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
