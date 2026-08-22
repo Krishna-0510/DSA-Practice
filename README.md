@@ -129,6 +129,7 @@
 | [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Krishna-0510/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Krishna-0510/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
