@@ -125,6 +125,7 @@
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Krishna-0510/DSA-Practice/tree/master/1927-sum-game) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Krishna-0510/DSA-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Krishna-0510/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -142,6 +143,7 @@
 | [0134-gas-station](https://github.com/Krishna-0510/DSA-Practice/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/Krishna-0510/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Krishna-0510/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -159,6 +161,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishna-0510/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1592-rearrange-spaces-between-words](https://github.com/Krishna-0510/DSA-Practice/tree/master/1592-rearrange-spaces-between-words) |
+| [1927-sum-game](https://github.com/Krishna-0510/DSA-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Krishna-0510/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -318,6 +321,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Krishna-0510/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Krishna-0510/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
