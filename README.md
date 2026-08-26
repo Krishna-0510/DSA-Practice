@@ -116,6 +116,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Krishna-0510/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Krishna-0510/DSA-Practice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Krishna-0510/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Krishna-0510/DSA-Practice/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna-0510/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Krishna-0510/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
