@@ -7,7 +7,7 @@ public:
         int sr = 0, sc = 0;
         int litterCount = 0;
 
-        // Give every L a bit number
+        
         vector<vector<int>> id(m, vector<int>(n, -1));
 
         for (int i = 0; i < m; i++) {
@@ -24,14 +24,14 @@ public:
             }
         }
 
-        // No litter
+      
         if (litterCount == 0)
             return 0;
 
         int totalMasks = 1 << litterCount;
         int target = totalMasks - 1;
 
-        // visited[r][c][energy][mask]
+       
         vector<vector<vector<vector<bool>>>> visited(
             m,
             vector<vector<vector<bool>>>(
@@ -45,7 +45,7 @@ public:
 
         queue<tuple<int, int, int, int>> q;
 
-        // row, col, remaining energy, collected mask
+        
         q.push({sr, sc, energy, 0});
         visited[sr][sc][energy][0] = true;
 
@@ -63,11 +63,11 @@ public:
                 auto [r, c, e, mask] = q.front();
                 q.pop();
 
-                // All litter collected
+               
                 if (mask == target)
                     return moves;
 
-                // Cannot move without energy
+                
                 if (e == 0)
                     continue;
 
@@ -76,29 +76,28 @@ public:
                     int nr = r + dr[d];
                     int nc = c + dc[d];
 
-                    // Out of bounds
+                    
                     if (nr < 0 || nr >= m || nc < 0 || nc >= n)
                         continue;
 
-                    // Obstacle
                     if (classroom[nr][nc] == 'X')
                         continue;
 
-                    // One move costs 1 energy
+                    
                     int ne = e - 1;
                     int nmask = mask;
 
-                    // Collect litter
+                   
                     if (classroom[nr][nc] == 'L') {
                         nmask |= (1 << id[nr][nc]);
                     }
 
-                    // Reset energy
+                  
                     if (classroom[nr][nc] == 'R') {
                         ne = energy;
                     }
 
-                    // New state
+                  
                     if (!visited[nr][nc][ne][nmask]) {
 
                         visited[nr][nc][ne][nmask] = true;
