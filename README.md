@@ -146,6 +146,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Krishna-0510/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3870-count-commas-in-range](https://github.com/Krishna-0510/DSA-Practice/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
