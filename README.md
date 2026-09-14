@@ -139,6 +139,7 @@
 | [0204-count-primes](https://github.com/Krishna-0510/DSA-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Krishna-0510/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/Krishna-0510/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/Krishna-0510/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Krishna-0510/DSA-Practice/tree/master/1927-sum-game) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Krishna-0510/DSA-Practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -438,4 +439,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Krishna-0510/DSA-Practice/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Krishna-0510/DSA-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
