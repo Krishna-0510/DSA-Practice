@@ -179,6 +179,7 @@
 | [0012-integer-to-roman](https://github.com/Krishna-0510/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Krishna-0510/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Krishna-0510/DSA-Practice/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Krishna-0510/DSA-Practice/tree/master/0115-distinct-subsequences) |
@@ -250,6 +251,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Krishna-0510/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Krishna-0510/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Krishna-0510/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna-0510/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krishna-0510/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -469,6 +472,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krishna-0510/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
