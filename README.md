@@ -188,6 +188,7 @@
 | [0242-valid-anagram](https://github.com/Krishna-0510/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0856-score-of-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krishna-0510/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -291,6 +292,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna-0510/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krishna-0510/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krishna-0510/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -473,6 +475,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krishna-0510/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
