@@ -186,6 +186,7 @@
 | [0125-valid-palindrome](https://github.com/Krishna-0510/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Krishna-0510/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna-0510/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0856-score-of-parentheses) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishna-0510/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0301-remove-invalid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Queue
@@ -321,6 +323,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Krishna-0510/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Krishna-0510/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-0510/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-0510/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
