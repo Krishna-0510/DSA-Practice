@@ -51,6 +51,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krishna-0510/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Krishna-0510/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/Krishna-0510/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-0510/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Krishna-0510/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishna-0510/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -99,6 +100,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-0510/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Krishna-0510/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krishna-0510/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Krishna-0510/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -123,6 +125,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krishna-0510/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Krishna-0510/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Krishna-0510/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-0510/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3692-majority-frequency-characters](https://github.com/Krishna-0510/DSA-Practice/tree/master/3692-majority-frequency-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishna-0510/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
